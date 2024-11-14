@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 - **Project Link**: [GitHub Repository](https://github.com/ravindranantony/familytodo)
-- **Demo Link**: [Vercel App]([https://github.com/ravindranantony/familytodo](https://aitodo-nine.vercel.app/))
+- **Demo Link**: https://aitodo-nine.vercel.app
 
 ---
 
