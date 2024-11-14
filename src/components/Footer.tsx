@@ -24,7 +24,7 @@ export const Footer: React.FC = () => {
           <span className="text-gray-300">|</span>
           
           <a
-            href="https://github.com/ravindranantony/familytodo"
+            href="https://github.com/ravindranantony/ATODO"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 text-gray-600 hover:text-gray-900 transition-colors"
